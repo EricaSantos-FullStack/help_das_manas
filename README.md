@@ -43,6 +43,9 @@ ____________________
 
 ### 😎 Porque usar Docker e o que é essa ferramenta?
 ____________________
+
+<img align="center" alt="docker" height="140" width="140" src="https://user-images.githubusercontent.com/71906862/206830131-3bd09b37-11d2-4ba5-8df1-0f79c3dd05b9.png">
+
 É uma ferramenta que permite empacotar o ambiente para executar seu aplicativo junto com o próprio aplicativo. Você pode fazer isso simplesmente incluindo um único arquivo chamado `Dockerfile` com seu projeto.
 Ele usa um conceito chamado _containers_ que são mais leves (requerem menos recursos) do que completos em máquinas virtuais para criar o ambiente para seu aplicativo. Esses contêineres são projetados para serem extremamente _portáveis_, o que significa que você pode implantá-los rapidamente em qualquer lugar e também dimensionar seu aplicativo rapidamente simplesmente implantando mais cópias de seu contêiner.
 

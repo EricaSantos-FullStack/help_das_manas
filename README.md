@@ -16,6 +16,7 @@ ____________________
 - Precisa de ajuda em:
 - Posso ajudar em:
 
+<img align="center" alt="help" height="70" width="70" src="https://user-images.githubusercontent.com/71906862/206856139-44ccf0c0-80b6-494a-b26b-630bf349f3b3.png">
 
 ### ✏ Planejamento:
 ____________________

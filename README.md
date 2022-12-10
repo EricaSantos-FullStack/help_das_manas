@@ -38,7 +38,6 @@ ____________________
 ### 🛠 Ferramentas necessárias:
 ____________________
 - [x] [Visual Studio Code](https://code.visualstudio.com/)
-- [x] [XAMPP](https://www.apachefriends.org/pt_br/index.html)
 - [x] [Docker](https://www.docker.com/)
 - [x] [Node.js](https://nodejs.org/en/)
 
